@@ -21,4 +21,4 @@ To encourage healthy financial habits by making saving money simple, visual, and
 - **React Native**
 - **JavaScript / TypeScript**
 - **Expo** or React Native CLI
-- Local storage or backend (e.g., Firebase/SQLite)
+- **Firebase**
